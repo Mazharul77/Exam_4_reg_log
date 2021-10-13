@@ -1,0 +1,104 @@
+body {
+  background: #3e4144;
+}
+.form {
+  margin: 50px auto;
+  width: 300px;
+  padding: 40px 30px;
+  background: white;
+  border-radius: 10px;
+}
+
+.form-inside {
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 25px;
+}
+
+/* Registration Style for create user */
+.reg_submission {
+  width: 100px;
+  color: green;
+  font-weight: bold;
+  font-size: 18px;
+  margin: 0px 0px 0px 145px;
+}
+
+.reg_submission:hover {
+  color: blue;
+  font-size: 21px;
+  background-color: white;
+}
+
+h1.login-title {
+  color: green;
+  margin: 0px auto 25px;
+  font-size: 25px;
+  font-weight: 600;
+  text-align: center;
+  letter-spacing: 0.1rem;
+}
+.login-input {
+  font-size: 15px;
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 25px;
+  height: 25px;
+  width: calc(100% - 23px);
+}
+.login-input:focus {
+  border-color: #6e8095;
+  outline: none;
+}
+.login-button {
+  color: #fff;
+  background: #55a1ff;
+  border: 0;
+  outline: 0;
+  width: 100%;
+  height: 50px;
+  font-size: 16px;
+  text-align: center;
+  cursor: pointer;
+}
+
+/* Login Button............ */
+.login_submisssion {
+  width: 100px;
+  color: green;
+  font-weight: bold;
+  font-size: 18px;
+  margin: 0px 0px 0px 155px;
+}
+
+/* Login ---hover */
+.login_submisssion:hover {
+  color: blue;
+  font-size: 21px;
+  background-color: white;
+}
+
+/* Login inside Button............ */
+.login-inside {
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 21px;
+}
+
+.link {
+  color: #666;
+  font-size: 15px;
+  text-align: center;
+  margin-bottom: 0px;
+}
+.link a {
+  color: #666;
+}
+h3 {
+  font-weight: normal;
+  text-align: center;
+}
+
+.seccess_message {
+  width: 700px;
+}
